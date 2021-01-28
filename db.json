@@ -60,6 +60,11 @@
       "status": true,
     }
   ],
+  "welcome_message": [
+    {
+      "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
