@@ -1,71 +1,66 @@
 {
-  "badges": [
-    {
-      "id": 1,
-      "badge_name": "Business Units",
-      "badge_count": "350",
-    },
-    {
-      "id": 2,
-      "badge_name": "Owners",
-      "badge_count": "15",
-    },
-    {
-      "id": 3,
-      "badge_name": "Brands",
-      "badge_count": "57",
-    },
-    {
-      "id": 4,
-      "badge_name": "Outlets",
-      "badge_count": "69",
-    },
-  ],
-  "merchants": [
-    {
-      "id": 1,
-      "email": "john@doe.com",
-      "first_name": "John",
-      "last_name": "Doe",
-      "status": false,
-    },
-    {
-      "id": 2,
-      "email": "sozi@gmail.com",
-      "first_name": "Sozi",
-      "last_name": "John",
-      "status": true,
-    },
-    {
-      "id": 3,
-      "email": "michal@doe.com",
-      "first_name": "Michal",
-      "last_name": "Doe",
-      "status": true,
-    },
-  ],
-  "brands": [
-    {
-      "id": 1,
-      "name": "KFC",
-      "outlet_counts": 10,
-      "currency": "PKR",
-      "status": false,
-    },
-    {
-      "id": 2,
-      "name": "MCDONALDS",
-      "outlet_counts": 50,
-      "currency": "$",
-      "status": true,
-    }
-  ],
-  "welcome_message": [
-    {
-      "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"badges": [{
+			"id": 1,
+			"badge_name": "Business Units",
+			"badge_count": 350
+		},
+		{
+			"id": 2,
+			"badge_name": "Owners",
+			"badge_count": 15
+		},
+		{
+			"id": 3,
+			"badge_name": "Brands",
+			"badge_count": 57
+		},
+		{
+			"id": 4,
+			"badge_name": "Outlets",
+			"badge_count": 69
+		}
+	],
+	"merchants": [{
+			"id": 1,
+			"email": "john@doe.com",
+			"first_name": "John",
+			"last_name": "Doe",
+			"status": false
+		},
+		{
+			"id": 2,
+			"email": "sozi@gmail.com",
+			"first_name": "Sozi",
+			"last_name": "John",
+			"status": true
+		},
+		{
+			"id": 3,
+			"email": "michal@doe.com",
+			"first_name": "Michal",
+			"last_name": "Doe",
+			"status": true
+		}
+	],
+	"brands": [{
+			"id": 1,
+			"name": "KFC",
+			"outlet_counts": 10,
+			"currency": "PKR",
+			"status": false
+		},
+		{
+			"id": 2,
+			"name": "MCDONALDS",
+			"outlet_counts": 50,
+			"currency": "$",
+			"status": true
+		}
+	],
+	"welcome_message": [{
+		"message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+	}],
+	"profile": {
+		"name": "typicode"
+	}
 }
