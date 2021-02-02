@@ -60,7 +60,12 @@
 	"welcome_message": {
 		"message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
 	},
-	"profile": {
+	"profile":[
+		{
 		"name": "typicode"
-	}
+		},
+		{
+		"image": "https://www.flaticon.com/svg/vstatic/svg/149/149071.svg?token=exp=1612251229~hmac=69efd559530fcb799e0f096f2a2b9fe1"
+		}
+	],
 }
